@@ -25,12 +25,12 @@
 	font-display: swap;
 }
 body {
-	font-family: "Academy";
+	font-family: "Academy", sans-serif;
 	font-size: 18px;
 }
 h1,
 h2 {
-	font-family: "Vremena";
+	font-family: "Vremena", sans-serif;
 	text-align: center;
 	text-transform: capitalize;
 	font-size: 42px;
