@@ -28,7 +28,7 @@
 	font-display: swap;
 }
 body {
-	font-family: "Circular";
+	font-family: "Circular", sans-serif;
 	font-size: 18px;
 	color: #5f5f5f;
 }
